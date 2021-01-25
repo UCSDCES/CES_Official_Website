@@ -1,0 +1,12 @@
+name: CES_Official_Website
+title: CES_Official_Website
+username:
+account: wanjun-gu
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 879441
+bundleId: 2094330
+url: https://wanjun-gu.shinyapps.io/CES_Official_Website/
+when: 1558245947.9521
+asMultiple: FALSE
+asStatic: FALSE
