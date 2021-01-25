@@ -15,7 +15,7 @@ UCSD Chinese Engineering Society Official Website
  ▀▀▀▀▀▀▀▀▀▀▀  ▀▀▀▀▀▀▀▀▀▀▀  ▀▀▀▀▀▀▀▀▀▀▀                                             
 ```
 
-Deployed at: ucsdces.com
+Deployed at: http://ucsdces.com
 <br>
 Photo Resource: https://photos.app.goo.gl/PNphkr12abVZuNpP8
 <br>
