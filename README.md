@@ -51,7 +51,7 @@ Installation:
 
 | Contributor   | Email         | Role         |
 | ------------- | ------------- |------------- |
-| Wanjun Gu     | wagu@health.ucsd.edu | UI Designer and Photographer       |
+| Wanjun Gu     | wagu@health.ucsd.edu | Developer |
 | Yueqian Ma    | yum001@ucsd.edu     | Developer                          |
 | Yueqing Qiao  | y2qiao@ucsd.edu     | Designer                           |
 | Xuezheng Wang | xuw005@ucsd.edu     | Photographer                       |
